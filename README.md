@@ -3,4 +3,4 @@ Slope Stability Analysis using Hyperspectral Imaging
 
 
 
-Code will be uploaded soon!
+open ipynb file
